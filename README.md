@@ -20,7 +20,8 @@
 ``` Escreva uma função que recebe uma lista e retorna uma nova lista sem elementos duplicados. Utilize a lista a seguir para testar sua função. Lista = ['abc', 'abc', 'abc', '123', 'abc', '123', '123']```
 
 * Questão 6:
-``` Escreva um programa que lê o conteúdo do arquivo texto arquivo_texto.txt e imprime o seu conteúdo. Você deve criar um arquivo .txt na pasta do seu repositório e inserir seu nome, idade e ano de inicio do curso dentro dele com quebra de linhas por informação !(blob:https://web.whatsapp.com/f40ab67c-877d-4bb7-8dec-cf1f8bee3fbe)```
+``` Escreva um programa que lê o conteúdo do arquivo texto arquivo_texto.txt e imprime o seu conteúdo. Você deve criar um arquivo .txt na pasta do seu repositório e inserir seu nome, idade e ano de inicio do curso dentro dele com quebra de linhas por informação```
+![Exemplo:](blob:https://web.whatsapp.com/f40ab67c-877d-4bb7-8dec-cf1f8bee3fbe)
 * Questão 7:
 * Questão 8:
 * Questão 9:
