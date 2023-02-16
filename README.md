@@ -10,12 +10,7 @@
 ```Faça um programa que gere uma nova lista contendo apenas números ímpares.```
 ```a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]```
 
-* Questão 3: Verifique se cada uma das palavras da lista ['maça', 'arara', 'audio', 'radio', 'radar', 'moto'] 
-* é ou não um palíndromo.
-* Obs: Palíndromo é uma palavra que permanece igual se lida de traz pra frente.
-* Exemplo de saída: A palavra: maça não é um palíndromo
-* A palavra: arara é um palíndromo
-* e assim por diante...
+* Questão 3: ```Verifique se cada uma das palavras da lista ['maça', 'arara', 'audio', 'radio', 'radar', 'moto'] é ou não um palíndromo. Obs: Palíndromo é uma palavra que permanece igual se lida de traz pra frente.Exemplo de saída: A palavra: maça não é um palíndromo  A palavra: arara é um palíndromoe assim por diante...```
 
 * Questão 4:
 * Questão 5:
