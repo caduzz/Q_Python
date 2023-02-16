@@ -21,8 +21,25 @@
 
 * Questão 6:
 ``` Escreva um programa que lê o conteúdo do arquivo texto arquivo_texto.txt e imprime o seu conteúdo. Você deve criar um arquivo .txt na pasta do seu repositório e inserir seu nome, idade e ano de inicio do curso dentro dele com quebra de linhas por informação```
-![Exemplo:](blob:https://web.whatsapp.com/f40ab67c-877d-4bb7-8dec-cf1f8bee3fbe)
+
 * Questão 7:
+``` Escreva uma função que recebe um número variável de parâmetros não nomeados e um número variado de parâmetros nomeados e imprime o valor de cada parâmetro recebido. Dica: pesquise sobre *args e **kwargs.     Aplique os seguintes parâmetros: a = (1, 3, 4, 'hello', parametro_nomeado='alguma coisa', x=20)```
+
 * Questão 8:
+```Implemente a classe Lampada. A classe Lâmpada recebe um booleano no seu construtor, Truese a lâmpada estiver ligada, False caso esteja desligada. A classe Lampada possuí os seguintes métodos:```
+
+* liga(): muda o estado da lâmpada para ligada
+* desliga(): muda o estado da lâmpada para desligada
+* esta_ligada(): retorna verdadeiro se a lâmpada estiver ligada, falso caso contrário
+
+```Para testar sua classe:```
+
+1. Ligue a Lampada
+2. Imprima: A lâmpada está ligada? True
+3. Desligue a Lampada
+4. Imprima: A lâmpada ainda está ligada? False
+
 * Questão 9:
+``` Escreva uma função que recebe uma string de números separados por vírgula e retorne a soma de todos eles. Depois imprima a soma dos valores. texto = "1,3,4,6,10,76"```
+
 * Questão 10:
