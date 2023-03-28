@@ -42,4 +42,24 @@
 * Questão 9:
 ``` Escreva uma função que recebe uma string de números separados por vírgula e retorne a soma de todos eles. Depois imprima a soma dos valores. texto = "1,3,4,6,10,76"```
 
+##### Material de apoio para [Python Funcional](https://github.com/dunossauro/python-funcional/blob/master/roteiros/00_introducao.md)
+
 * Questão 10:
+``` Você está recebendo um arquivo contendo 10.000 números inteiros(numbers.txt), um em cada linha. Utilizando lambdas e high order functions, apresente os 5 maiores valores pares e a soma destes(Obrigatório utilizar as funções: filter(), sorted(),  sum() e lambdas. Função map() é opcional).```
+
+* Questão 11: 
+``` Utilizando high order functions, crie a função conta_vogais. O parâmetro de entrada será uma string e o resultado deverá ser a contagem de vogais presentes em seu conteúdo.(Obrigatório utilizar as funções: len(), filter() e lambdas) Obs.: Não considerar caracteres acentuados```
+
+##### Baixe os arquivos .csv listados na pasta do [drive](https://drive.google.com/drive/folders/1mdbtXuJBzpaXzbK-_PsB0N2GjqTyjE8o?usp=sharing)
+
+* Questão 12: 
+``` Identifique o ator/atriz com maior número de filmes e o respectivo número de filmes.```
+
+* Questão 13:
+``` Apresente a média da coluna contendo o número de filmes.```
+
+* Questão 14: 
+``` Apresente o nome do ator/atriz com a maior média por filme.```
+
+* Questão 15: 
+``` Apresente o nome do(s) filme(s) mais frequente(s) e sua respectiva frequência.```
